@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4587cd8b24379e14ea0eb1a2857a38a1
+  - enabled: 1
+    path: Assets/Scenes/Synopsis.unity
+    guid: 085a59af00a0a7046a4bedb29dd56e08
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 1-1.unity
+    guid: d62bfdd571590354daf9403726d8178a
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 1-2.unity
+    guid: 1624f5e59160e5b4a939028fc0103468
+  - enabled: 1
+    path: Assets/Scenes/Bonus/Bonus1.unity
+    guid: 06837e4349f92a54983df64e046bfaad
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 1-3.unity
+    guid: 6998af94d58d25e43a2eaf393ea29467
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 1-4 SlimeKing.unity
+    guid: 0ae8e71ede83d5846b6dc73035c49243
+  - enabled: 1
+    path: Assets/Scenes/Bonus/Bonus2.unity
+    guid: 60e7b5ebc1d7d6f4eaabb5774b765f3b
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 2-1.unity
+    guid: a5d793b88588d0c49b6e6325770dab74
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 2-2.unity
+    guid: a6097c311b14c2d4f890ff9305cea2a3
+  - enabled: 1
+    path: Assets/Scenes/Bonus/Bonus3.unity
+    guid: 54ae8e039df1dfd42ae49c349062910a
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 2-3.unity
+    guid: cd8a592b1d8ddaa458a00299fe6187a0
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage 2-4 Pumkin King.unity
+    guid: c368a849bcf729b4e8909d85ef39d0f3
+  - enabled: 1
+    path: Assets/Scenes/ENDING.unity
+    guid: f364022508492884cbe51ebf47f9cb13
+  m_configObjects: {}

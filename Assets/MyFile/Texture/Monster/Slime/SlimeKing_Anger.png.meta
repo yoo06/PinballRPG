@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 11a25dc524e85ed4782d600fde27bf76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9207583347546799827
+    second: SlimeKing_Anger_0
+  - first:
+      213: 3031701165763088642
+    second: SlimeKing_Anger_1
+  - first:
+      213: 6781135995510496191
+    second: SlimeKing_Anger_2
+  - first:
+      213: -7187636124596659691
+    second: SlimeKing_Anger_3
+  - first:
+      213: -593525046606839044
+    second: SlimeKing_Anger_4
+  - first:
+      213: 6773089423862797472
+    second: SlimeKing_Anger_5
+  - first:
+      213: -1628335221687616206
+    second: SlimeKing_Anger_6
+  - first:
+      213: 6274973506400724060
+    second: SlimeKing_Anger_7
+  - first:
+      213: 5255721530548960677
+    second: SlimeKing_Anger_8
+  - first:
+      213: 8067808788190252481
+    second: SlimeKing_Anger_9
+  - first:
+      213: -7308461110382649096
+    second: SlimeKing_Anger_10
+  - first:
+      213: -8755033069364056568
+    second: SlimeKing_Anger_11
+  - first:
+      213: 4978715613796033853
+    second: SlimeKing_Anger_12
+  - first:
+      213: -550126648728218642
+    second: SlimeKing_Anger_13
+  - first:
+      213: -7894212700246238910
+    second: SlimeKing_Anger_14
+  - first:
+      213: -6241285094125274925
+    second: SlimeKing_Anger_15
+  - first:
+      213: 6699961562590404130
+    second: SlimeKing_Anger_16
+  - first:
+      213: -2584142242784455106
+    second: SlimeKing_Anger_17
+  - first:
+      213: -5094433663947435095
+    second: SlimeKing_Anger_18
+  - first:
+      213: -966492483265119582
+    second: SlimeKing_Anger_19
+  - first:
+      213: -1645497390428037591
+    second: SlimeKing_Anger_20
+  - first:
+      213: -2987284243595239859
+    second: SlimeKing_Anger_21
+  - first:
+      213: -4293406496920796275
+    second: SlimeKing_Anger_22
+  - first:
+      213: -6665636907579682189
+    second: SlimeKing_Anger_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeKing_Anger_1
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1852
+        width: 290
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201527ac524c21a20800000000000000
+      internalID: 3031701165763088642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_2
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1852
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb940a824f6b1e50800000000000000
+      internalID: 6781135995510496191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1823
+        width: 290
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a96a2c603604c90800000000000000
+      internalID: -7187636124596659691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1822
+        width: 309
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c3bf5d1063c7f0800000000000000
+      internalID: -593525046606839044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1302
+        width: 274
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0a2ec8751239a90800000000000000
+      internalID: -7308461110382649096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1287
+        width: 274
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee1cf3fcfdf7680800000000000000
+      internalID: -8755033069364056568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_12
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1302
+        width: 274
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e00ee873f71540800000000000000
+      internalID: 4978715613796033853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_13
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1302
+        width: 274
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee314194abe8d58f0800000000000000
+      internalID: -550126648728218642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 727
+        width: 252
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed8f21b8b0bfc50800000000000000
+      internalID: 6699961562590404130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 639
+        width: 282
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5269cec80b86d0800000000000000
+      internalID: -2987284243595239859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_22
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 639
+        width: 290
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838eaad981ca64c0800000000000000
+      internalID: -4293406496920796275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeKing_Anger_23
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 639
+        width: 290
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372daf17c86ee73a0800000000000000
+      internalID: -6665636907579682189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
